@@ -1,0 +1,9 @@
+#####################DOCKER COMMANDS###########
+
+docker pull image_name(e.g.,hello-world)
+docker run image_name(hello-world)
+
+docker network ls
+
+docker network create mongo-network(netwk_name)
+
