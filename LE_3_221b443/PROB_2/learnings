@@ -1,0 +1,1 @@
+The abstract class cannot be used directly to create instance , you need to create a child class extending the abstract class , and you can use this child class to create the instance.
